@@ -1,0 +1,12 @@
+{
+  "name": "weatherApp",
+  "displayName": "weatherApp",
+  "expo": {
+    "name": "weatherApp",
+    "slug": "weatherApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
